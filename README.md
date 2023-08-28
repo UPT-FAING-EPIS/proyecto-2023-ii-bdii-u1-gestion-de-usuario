@@ -12,6 +12,9 @@
 |TOMAS YOEL CONDORI VARGAS |   
 |ANTONY CHATA CHOQUE | 
 
+|      BASE DE DATOS      |
+|-------------|
+|  MYSQL |
 
 | LENGUAJE |
 |PYTHON|
