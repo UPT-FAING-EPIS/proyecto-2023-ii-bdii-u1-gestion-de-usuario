@@ -1,0 +1,6 @@
+user
+tomas
+clave 
+yoel4591
+
+credencial superuser python gestion usuarios
