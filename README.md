@@ -14,7 +14,7 @@
 
 |      BASE DE DATOS      |
 |-------------|
-|  MYSQL |
+| PostgresSQL |
 
 | LENGUAJE |
 |PYTHON|
