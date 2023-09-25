@@ -17,4 +17,4 @@
 |  MYSQL |
 
 | LENGUAJE |
-|PYTHON|
+|PostgresSQL|
